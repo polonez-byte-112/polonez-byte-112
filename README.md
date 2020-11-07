@@ -1,11 +1,20 @@
-### Hi there 👋
+
+
+[![Header](https://raw.githubusercontent.com/polonez-byte-112/<OWNER>/<OWNER>/gh-bannner-light.png "Header")](https://some-url.dev/)
+
+
+### Hello World 👋
+
+Z programowaniem miałem do czynienia od bardzo dawna - rozpoczynając od Html , CSS, przez krótki epizod z C++ później PHP i w końcu Java i Kotlin. Niedawno zacząłem studia Informatyczne. 
+
+
+Programuję od 6 miesięcy
 
 <!--
 **polonez-byte-112/polonez-byte-112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
