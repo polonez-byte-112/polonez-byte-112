@@ -3,7 +3,6 @@
 [![Header](https://raw.githubusercontent.com/polonez-byte-112/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 
-### Hello World 👋
 
 Z programowaniem miałem do czynienia od bardzo dawna - rozpoczynając od Html , CSS, przez krótki epizod z C++ później PHP i w końcu Java i Kotlin. Niedawno zacząłem studia Informatyczne. 
 
