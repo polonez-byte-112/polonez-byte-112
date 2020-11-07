@@ -2,7 +2,7 @@
 
 ## Hello World 😄
 
-My name is Paweł 
+My name is Paweł  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I have been dealing with programming for a very long time - starting with Html, CSS, SQL,
 
