@@ -1,13 +1,13 @@
 
-
-[![Header](https://raw.githubusercontent.com/polonez-byte-112/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
+![alt text](https://github.com/polonez-byte-112/polonez-byte-112/blob/main/readme_header.png?raw=true)
 
 
-Z programowaniem miałem do czynienia od bardzo dawna - rozpoczynając od Html , CSS, przez krótki epizod z C++ później PHP i w końcu Java i Kotlin. Niedawno zacząłem studia Informatyczne. 
+Z programowaniem miałem do czynienia od bardzo dawna - rozpoczynając od Html , CSS,
+
+przez krótki epizod z C++ później PHP i w końcu Java i Kotlin. Niedawno zacząłem studia Informatyczne. 
 
 
-Programuję od 6 miesięcy
+Programuję w Javie od 6 miesięcy
 
 <!--
 **polonez-byte-112/polonez-byte-112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
