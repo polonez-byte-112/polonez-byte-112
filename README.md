@@ -29,7 +29,7 @@ email : pawel.lukasz001@gmail.com
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/polonez-byte-112/polonez-byte-112">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polonez-byte-112&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polonez-byte-112&hide=kotlin,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <br/>
 <a href="https://github.com/polonez-byte-112/polonez-byte-112">
