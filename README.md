@@ -21,7 +21,7 @@ I have been programming in Java for 6 months
 * Secret Project
 
 I will make my Magnum opus in near future , so stay tuned <br/><br/>
-<img src="https://raw.githubusercontent.com/polonez-byte-112/polonez-byte-112/master/cat.gif" width="240px">
+<img src="https://github.com/polonez-byte-112/polonez-byte-112/blob/main/cat.gif" width="240px">
 <br/><br/>
 ## 📫 How to reach me: ...
 
