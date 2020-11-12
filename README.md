@@ -18,8 +18,10 @@ I have been programming in Java for 6 months
 <br/><br/>
 ## 🔭 I’m currently working on ...
 
-* 2D Tutorial Revise
-* 2D Space Shooter Remake
+* Secret Project
+
+I will make my Magnum opus in near future , so stay tuned <br/><br/>
+<img src="https://raw.githubusercontent.com/polonez-byte-112/polonez-byte-112/master/cat.gif" width="240px">
 <br/><br/>
 ## 📫 How to reach me: ...
 
