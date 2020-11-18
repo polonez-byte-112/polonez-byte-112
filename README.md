@@ -38,6 +38,8 @@ email : pawel.lukasz001@gmail.com
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=polonez-byte-112&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pawel's GitHub Stats" />
 </a>
 <br/>
+<a href="https://github.com/polonez-byte-112/SpaceShooter">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=polonez-byte-112&repo=SpaceShooter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+
 <a href="https://github.com/polonez-byte-112/Among-Sus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=polonez-byte-112&repo=Among-Sus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
