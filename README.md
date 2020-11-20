@@ -17,7 +17,8 @@ I have been programming in Java for 6 months
 
 <br/><br/>
 ## 🔭 I’m currently working on ...
-* Secret Project
+* Voyager (Private)
+* Learning MVVM 
 
 Actually  I dont have idea whats will be next. I have a lot of exams currently and I am searching for Idea for Project :) 
 
