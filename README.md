@@ -23,7 +23,7 @@ I have been programming in Java for 6 months
 
 <br/><br/>
 ## 🔭 I’m currently working on ...
-*Querto - Ordering Pizza Online
+* Querto - Ordering Pizza Online
 * Voyager (Private)
 * Learning more about Android Architecture
 
