@@ -4,11 +4,11 @@
 
 My name is Paweł  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I have been dealing with programming for a very long time - starting with Html, CSS, SQL,
+Until recently I was writing relative web pages. I wouldn't say that it can be called programming but it's a matter of opinion. I tried my best  in many languages. From SQL and PHP to C++ and the final Java and Kotlin.
 
-for a short episode with C++ later PHP and finally Java and Kotlin. 
+I love writing in SQL and  In the last two languages listed above.
 
-Recently I started my IT studies. 
+Recently I started my IT studies where I more focus on programming than study.
 <br/><br/>
 ## 🌱 
 
@@ -17,8 +17,9 @@ I have been programming in Java for 6 months
 
 <br/><br/>
 ## 🔭 I’m currently working on ...
+*Querto - Ordering Pizza Online
 * Voyager (Private)
-* Learning MVVM 
+* Learning more about Android Architecture
 
 Actually  I dont have idea whats will be next. I have a lot of exams currently and I am searching for Idea for Project :) 
 
