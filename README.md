@@ -17,6 +17,12 @@ From  SQL and PHP to C++ and finally Java and Kotlin.
 I love writing in SQL and  In the last two languages listed above.
 </p>
 
+<br/><br/>
+
+Apart from Programming I love  running, ice-skating and play old retro games from NES. 
+
+Especialy "Legend of Zelda" and "Galaga"
+
 
 Recently I started my IT studies where I more focus on programming than study.
 <br/><br/>
