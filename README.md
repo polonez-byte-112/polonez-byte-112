@@ -4,12 +4,19 @@
 
 My name is Paweł  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Until recently I was writing relative web pages. 
-I wouldn't say that it can be called programming but it's a matter of opinion. 
+<p>Until recently I was writing relative web pages. 
+  
+I wouldn't say that it can be called programming but it's a matter of opinion. </p>
 
-I tried my best  in many languages.
+
+
+<p>I tried my best  in many languages.
+  
 From  SQL and PHP to C++ and finally Java and Kotlin.
+
 I love writing in SQL and  In the last two languages listed above.
+</p>
+
 
 Recently I started my IT studies where I more focus on programming than study.
 <br/><br/>
