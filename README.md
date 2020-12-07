@@ -25,10 +25,10 @@ Apart from Programming I love:
 * Playing old retro games from NES 
   (Especialy "The Legend of Zelda" and "Galaga") 
 
+<br/><br/>
+## 🌱 Current Status
 
 Recently I started my IT studies where I more focus on programming than study.
-<br/><br/>
-## 🌱 
 
 
 I have been programming in Java for 6 months
