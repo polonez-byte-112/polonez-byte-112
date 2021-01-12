@@ -35,10 +35,7 @@ I have been programming in Java for 6 months
 
 <br/><br/>
 ## 🔭 I’m currently working on ...
-* Querto - Ordering Pizza Online
 * Voyager (Private)
-* Learning more about Android Architecture
-
 Actually  I dont have idea whats will be next. I have a lot of exams currently and I am searching for Idea for Project :) 
 
 I will make my Magnum opus in near future , so stay tuned <br/><br/>
