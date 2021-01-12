@@ -31,7 +31,7 @@ Apart from Programming I love:
 Recently I started my IT studies where I more focus on programming than study.
 
 
-I have been programming in Java for 6 months
+I have been programming in Java /Kotlin since  summer  of 2020.
 
 <br/><br/>
 ## 🔭 I’m currently working on ...
