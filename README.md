@@ -37,6 +37,10 @@ I have been programming in Java /Kotlin since  summer  of 2020.
 <br/><br/>
 ## 🔭 I’m currently working on ...
 * Voyager (Private)
+* Rafa  // My version of spotify based on firebase services.
+
+// At current momment i have to study a lot so projects may be delayed
+
 Actually  I dont have idea whats will be next. I have a lot of exams currently and I am searching for Idea for Project :) 
 
 I will make my Magnum opus in near future , so stay tuned <br/><br/>
