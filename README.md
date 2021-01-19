@@ -22,6 +22,7 @@ I love writing in SQL and  In the last two languages listed above.
 Apart from Programming I love:
 * Running
 * Ice-skating
+* Learning foreign languages
 * Playing old retro games from NES 
   (Especialy "The Legend of Zelda" and "Galaga") 
 
