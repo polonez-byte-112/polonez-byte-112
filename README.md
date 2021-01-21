@@ -46,9 +46,7 @@ Actually  I dont have idea whats will be next. I have a lot of exams currently a
 I will make my Magnum opus in near future , so stay tuned <br/><br/>
 <img src="https://github.com/polonez-byte-112/polonez-byte-112/blob/main/cat.gif" width="240px">
 <br/><br/>
-## 📫 How to reach me: ...
 
-email : pawel.lukasz001@gmail.com
 
 <br/><br/>
 ## &#x1f4c8; GitHub Stats
