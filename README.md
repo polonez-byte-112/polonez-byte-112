@@ -40,7 +40,7 @@ I will make my Magnum opus in near future , so stay tuned <br/><br/>
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/polonez-byte-112/polonez-byte-112">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polonez-byte-112&hide=c++,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="100" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polonez-byte-112&hide=c++,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="300" />
 </a>
 <a href="https://github.com/polonez-byte-112/Querto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=polonez-byte-112&repo=Querto&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="100" />
