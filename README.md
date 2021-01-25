@@ -1,4 +1,4 @@
-[![Header](https://github.com/polonez-byte-112/polonez-byte-112/blob/main/r_header.png "Header")](https://www.facebook.com/pawel.lukasz01/)
+[![Header](https://github.com/polonez-byte-112/polonez-byte-112/blob/main/photo_header.png "Header")](https://www.facebook.com/pawel.lukasz01/)
 
 ## Hola 😁
 Soy Paweł  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
