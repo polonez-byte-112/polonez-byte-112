@@ -11,10 +11,8 @@ Then i learned SQL and Java.
 Currently I am making apps in MVVM architecture using Kotlin.                                                                        
 </p>
 
-
 <br/><br/>
 
-<br/><br/>
 ## 🔭 I’m currently working on ...
 * Voyager (Private) 
 * Rafa  // My version of spotify based on firebase services.
