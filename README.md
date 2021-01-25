@@ -11,22 +11,14 @@ Then i learned SQL and Java.
 Currently I am making apps in MVVM architecture using Kotlin.                                                                        
 </p>
 
-<br/><br/>
-## 🐬 My Hobbies
-Apart from Programming I love:
-* Running
-* Ice-skating
-* Learning foreign languages
-* Playing old retro games from NES 
-  (Especialy "The Legend of Zelda" and "Galaga") 
 
 <br/><br/>
 
 <br/><br/>
 ## 🔭 I’m currently working on ...
-* Voyager (Private)
+* Voyager (Private) 
 * Rafa  // My version of spotify based on firebase services.
-* LockNotes // Notepad 
+* LockNotes // Notepad with firebase database and firestore
 
 // At current momment i have to study a lot so projects may be delayed
 
