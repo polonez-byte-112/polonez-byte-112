@@ -24,7 +24,7 @@ Currently I am making apps in MVVM architecture using Kotlin.
 
 
 I will make my Magnum opus in near future , so stay tuned <br/><br/>
-<img src="https://github.com/polonez-byte-112/polonez-byte-112/blob/main/cats.jpg">
+<img src="https://github.com/polonez-byte-112/polonez-byte-112/blob/main/cats.jpg" width="300">
 <br/><br/>
 
 
