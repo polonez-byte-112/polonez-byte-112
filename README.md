@@ -20,7 +20,7 @@ Currently I am making apps in MVVM architecture using Kotlin.
 * Rafa  // My version of spotify based on firebase services.
 * LockNotes // Notepad with firebase database and firestore
 
-// At current momment i have to study a lot so projects may be delayed
+// At current moment i have to study a lot so projects may be delayed
 
 
 I will make my Magnum opus in near future , so stay tuned <br/><br/>
